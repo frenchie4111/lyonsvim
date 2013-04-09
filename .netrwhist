@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/fall2012/mdl7240/Documents/Programming/se250/.git'
+let g:netrw_dirhist_2='/home/fall2012/mdl7240/Documents/Programming/se250/ProgramTester/test'
+let g:netrw_dirhist_3='/home/fall2012/mdl7240/Documents/Programming/Personal/Reverse-Javadoc'
+let g:netrw_dirhist_4='/home/fall2012/mdl7240/Documents/Programming/se250/PythonProject'
+let g:netrw_dirhist_5='/home/fall2012/mdl7240/Documents/Programming/Personal/github_other/dotFiles/vim/vim.symlink/autoload'
+let g:netrw_dirhist_6='/home/fall2012/mdl7240/.vim/plugins'
