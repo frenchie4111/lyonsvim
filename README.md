@@ -1,6 +1,10 @@
 lyonsvim
 ========
 
+An install script can be found here:
+
+http://mikelyons.org/external/lyonsvim_install.sh
+
 My Vim Configurations
 
 ```
